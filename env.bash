@@ -1,0 +1,8 @@
+export NEXT_PUBLIC_API_URL="https://bashable.art/api"
+export NEXT_PUBLIC_SITE_URL="https://bashable.art"
+export NEXT_PUBLIC_DISCORD_LINK="https://discord.com/invite/bNQUaQb8KM"
+export NEXT_PUBLIC_DISCORD_CHANNEL_LINK_RESTRICTED="https://discord.com/channels/1082439221052194856/1099131693962629160"
+export NEXT_PUBLIC_DISCORD_CHANNEL_LINK="https://discord.com/channels/1082439221052194856/1099132039220969563"
+export NEXT_PUBLIC_DISCORD_POLL_LINK="https://discord.com/channels/1082439221052194856/"
+export NEXT_PUBLIC_EARN_CREDITS_PER_REFERRAL="10"
+
